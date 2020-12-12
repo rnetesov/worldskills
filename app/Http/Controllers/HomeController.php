@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Entities\Proposal;
-use App\Entities\Review;
 
 class HomeController extends Controller
 {
